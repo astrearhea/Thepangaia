@@ -1,4 +1,4 @@
-# Thepangaia
+# Thepangaia ( https://pangaia.com/)
 
 https://app.qase.io/project/TP?view=1
 
