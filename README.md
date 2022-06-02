@@ -1,5 +1,7 @@
 # Thepangaia
 
+https://app.qase.io/project/TP?view=1
+
 - test cases exported from Qase.
 
 - bugs reports are displayed on the Trello board
